@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Lu-shiyi.github.io/</id>
-    <title>Gridea</title>
-    <updated>2021-11-10T13:48:55.316Z</updated>
+    <title>看见</title>
+    <updated>2021-11-10T13:54:32.389Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Lu-shiyi.github.io/"/>
     <link rel="self" href="https://Lu-shiyi.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://Lu-shiyi.github.io/images/avatar.png</logo>
     <icon>https://Lu-shiyi.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, Gridea</rights>
+    <rights>All rights reserved 2021, 看见</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://Lu-shiyi.github.io/post/hello-gridea/</id>
