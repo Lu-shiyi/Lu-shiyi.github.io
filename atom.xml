@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Lu-shiyi.github.io/</id>
     <title>看见</title>
-    <updated>2021-11-10T17:04:28.421Z</updated>
+    <updated>2021-11-10T17:32:48.312Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Lu-shiyi.github.io/"/>
     <link rel="self" href="https://Lu-shiyi.github.io/atom.xml"/>
@@ -10,6 +10,18 @@
     <logo>https://Lu-shiyi.github.io/images/avatar.png</logo>
     <icon>https://Lu-shiyi.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 看见</rights>
+    <entry>
+        <title type="html"><![CDATA[悟以往之不谏，知来者之可追]]></title>
+        <id>https://Lu-shiyi.github.io/post/wu-yi-wang-zhi-bu-jian-zhi-lai-zhe-zhi-ke-zhui/</id>
+        <link href="https://Lu-shiyi.github.io/post/wu-yi-wang-zhi-bu-jian-zhi-lai-zhe-zhi-ke-zhui/">
+        </link>
+        <updated>2021-11-10T17:09:07.000Z</updated>
+        <content type="html"><![CDATA[<p>自从换了电脑，博客之路就像是一脚踏进了荒原，生机不再。</p>
+<p>因为之前的站点配置文件都在旧电脑上，需要迁移。每次又因为嫌麻烦而迟迟没有去做这个工作。</p>
+<p>今日终于醒悟过来了。反正之前的站点也没写几篇文章，索性直接重新建站，将今后写博客拖延的借口直接抹除干净。</p>
+<p>荒原徐行半载，勿再言，可追来者！🌈</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://Lu-shiyi.github.io/post/hello-gridea/</id>
