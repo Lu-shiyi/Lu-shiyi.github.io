@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Lu-shiyi.github.io/</id>
     <title>看见</title>
-    <updated>2021-11-11T15:44:26.018Z</updated>
+    <updated>2021-11-11T15:54:17.380Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Lu-shiyi.github.io/"/>
     <link rel="self" href="https://Lu-shiyi.github.io/atom.xml"/>
@@ -37,7 +37,7 @@
 <li>Create a github repo named <code>xxx.github.io</code>.<br>
 <img src="https://Lu-shiyi.github.io//post-images/1636642280293.png" alt="create repo" loading="lazy">
 <ul>
-<li>replace user_name with your github user name. like <strong>Lu-shiyi.github.io</strong>.</li>
+<li>replace xxx with your github user name. like <strong>Lu-shiyi.github.io</strong>.</li>
 <li>set its visibility as public.</li>
 <li>create repository.</li>
 </ul>
@@ -61,7 +61,7 @@
 <li>click the button <strong>synchronize</strong> to push your changes to remote.</li>
 </ul>
 </li>
-<li>Open a browser and type <code>xxx.github.io</code>, you will find your site is run successfully.<br>
+<li>Open a browser and type <code>xxx.github.io</code>, you will find that your site works successfully.<br>
 <img src="https://Lu-shiyi.github.io//post-images/1636645086998.png" alt="result" loading="lazy"></li>
 </ol>
 <p>😘 Enjoy~</p>
