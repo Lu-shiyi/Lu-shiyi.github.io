@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Lu-shiyi.github.io/</id>
     <title>看见</title>
-    <updated>2021-11-10T17:34:28.575Z</updated>
+    <updated>2021-11-11T04:51:14.207Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Lu-shiyi.github.io/"/>
     <link rel="self" href="https://Lu-shiyi.github.io/atom.xml"/>
@@ -23,20 +23,30 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <title type="html"><![CDATA[Use Gridea and GitHub Pages to Build your Site]]></title>
         <id>https://Lu-shiyi.github.io/post/hello-gridea/</id>
         <link href="https://Lu-shiyi.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+        <summary type="html"><![CDATA[<ol>
+<li>Download Gridea from <a href="https://gridea.dev/">here</a>.</li>
+<li>Create a github repo named <code>$(user_name).github.io</code>.<br>
+replace user_name with your github user name. and set its visibility as public.</li>
+<li>Generate a personal access token.</li>
+</ol>
+<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
 ✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+        <content type="html"><![CDATA[<ol>
+<li>Download Gridea from <a href="https://gridea.dev/">here</a>.</li>
+<li>Create a github repo named <code>$(user_name).github.io</code>.<br>
+replace user_name with your github user name. and set its visibility as public.</li>
+<li>Generate a personal access token.</li>
+</ol>
+<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
 ✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
 <!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
+<p><a href="https://gridea.dev/">Gridea 主页</a></p>
 <h2 id="特性">特性👇</h2>
 <p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
 <p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
