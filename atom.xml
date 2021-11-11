@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Lu-shiyi.github.io/</id>
     <title>看见</title>
-    <updated>2021-11-11T04:52:56.176Z</updated>
+    <updated>2021-11-11T15:40:31.137Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Lu-shiyi.github.io/"/>
     <link rel="self" href="https://Lu-shiyi.github.io/atom.xml"/>
@@ -24,43 +24,46 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Use Gridea and GitHub Pages to Build your Site]]></title>
-        <id>https://Lu-shiyi.github.io/post/hello-gridea/</id>
-        <link href="https://Lu-shiyi.github.io/post/hello-gridea/">
+        <id>https://Lu-shiyi.github.io/post/build site/</id>
+        <link href="https://Lu-shiyi.github.io/post/build site/">
         </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<ol>
-<li>Download Gridea from <a href="https://gridea.dev/">here</a>.</li>
-<li>Create a github repo named <code>$(user_name).github.io</code>.<br>
-replace user_name with your github user name. and set its visibility as public.</li>
-<li>Generate a personal access token.</li>
+        <updated>2021-11-10T16:00:00.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>I will use xxx to replace your github name in this article.</p>
+</blockquote>
+<ol>
+<li>Download Gridea from <a href="https://gridea.dev/#started"><strong>here</strong></a>.<br>
+<img src="https://Lu-shiyi.github.io//post-images/1636641339386.png" alt="download gridea" loading="lazy"></li>
+<li>Create a github repo named <code>xxx.github.io</code>.<br>
+<img src="https://Lu-shiyi.github.io//post-images/1636642280293.png" alt="create repo" loading="lazy">
+<ul>
+<li>replace user_name with your github user name. like <strong>Lu-shiyi.github.io</strong>.</li>
+<li>set its visibility as public.</li>
+<li>create repository.</li>
+</ul>
+</li>
+<li>Generate a personal access token.<br>
+<img src="https://Lu-shiyi.github.io//post-images/1636642897853.png" alt="generate token" loading="lazy">
+<ul>
+<li>click your avator at the top right of your pages and enter <strong>Settings</strong>.</li>
+<li>find <strong>Developer settings</strong> in the navigation on the right and click.</li>
+<li>find <strong>Personal access tokens</strong> in the navigation on the right and click.</li>
+<li>generate a new token just check the <strong>repo</strong> box.(your can set <strong>Note</strong> and <strong>expiration</strong> for it if you need).</li>
+<li>save the token to your clipboad before you leave this page.</li>
+</ul>
+</li>
+<li>Execute Gridea and connect your Github Pages.<br>
+<img src="https://Lu-shiyi.github.io//post-images/1636644582741.png" alt="connect remote" loading="lazy">
+<ul>
+<li>click the button <strong>remote</strong> to fill in your infomation.</li>
+<li>paste your new token into the <strong>token</strong> field and click the button <strong>save</strong>.</li>
+<li>you can check the connection before you click the button <strong>synchronize</strong>.</li>
+<li>click the button <strong>synchronize</strong> to push your changes to remote.</li>
+</ul>
+</li>
+<li>Open a browser and type <code>xxx.github.io</code>, you will find your site is run successfully.<br>
+<img src="https://Lu-shiyi.github.io//post-images/1636645086998.png" alt="result" loading="lazy"></li>
 </ol>
-<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<ol>
-<li>Download Gridea from <a href="https://gridea.dev/">here</a>.</li>
-<li>Create a github repo named <code>$(user_name).github.io</code>.<br>
-replace user_name with your github user name. and set its visibility as public.</li>
-<li>Generate a personal access token.</li>
-</ol>
-<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-<!-- more -->
-<p><a href="https://gridea.dev/">Gridea 主页</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
 <p>😘 Enjoy~</p>
 ]]></content>
     </entry>
